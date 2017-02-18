@@ -1,5 +1,7 @@
 #cargo add
 
+**This crate is deprecated in favor of [cargo-edit](https://github.com/killercup/cargo-edit).**
+
 This tool extends the behavior of cargo to allow you to add dependencies to
 your Cargo.toml from the command line. It is very simple to install and use.
 
